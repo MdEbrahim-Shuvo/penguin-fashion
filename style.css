@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* font-family: "Montserrat", serif;
+    font-family: "Roboto", serif;
+    font-family: "Bebas Neue", serif;
+*/
+
+@theme {
+    /* color */
+   --color-primary-olive: #A4BC46;
+   --color-hero: rgba(255, 251, 240, 1);
+   --color-gold-title: rgba(250, 190, 76, 1);
+   --color-olive-400: rgba(164, 188, 70, 1);
+   --color-olive-800: rgba(133, 160, 25, 1);
+
+   /* font-size */
+   --text-80px: 5rem;
+
+   /* font-family */
+   --font-montserrat: "Montserrat", serif;
+   --font-roboto: "Roboto", serif;
+   --font-bebas-neue: "Bebas Neue", serif;
+
+   /* font-weight */
+
+   /* line-height */
+ }
